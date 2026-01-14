@@ -1,5 +1,6 @@
 Touch 1
 Touch 2
+touch 3
 ### Ruby on Rails template project
 
 This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/user/project/working_with_projects.html#create-a-project).
