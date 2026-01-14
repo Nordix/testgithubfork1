@@ -2,7 +2,7 @@ Touch 1
 Touch 2
 touch 3
 ### Ruby on Rails template project
-Touch hub 1
+Touch hub 2
 This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/user/project/working_with_projects.html#create-a-project).
 
 Improvements can be proposed in the [original project](https://gitlab.com/gitlab-org/project-templates/rails).
